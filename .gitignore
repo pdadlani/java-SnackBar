@@ -32,3 +32,6 @@ Thumbs.db
 
 # jME (binaries)
 *.so
+
+# VS code
+.vscode
